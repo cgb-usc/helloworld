@@ -1,4 +1,8 @@
 wqfwqefqwf
+<<<<<<< HEAD
 dfasfsf
 
 dasfafafffqwefqw
+=======
+dfasfsffasfdasfasdfaf
+>>>>>>> a9ab309cb41db377c6dd1c30fa750f13fae0c05a
